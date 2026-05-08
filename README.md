@@ -250,21 +250,6 @@ Maximum Score: 80
 
 ---
 
-# 📷 Screenshots
-
-## Home Page
-(Add Screenshot Here)
-
-## Dashboard
-(Add Screenshot Here)
-
-## Results Page
-(Add Screenshot Here)
-
-## Login Page
-(Add Screenshot Here)
-
----
 
 # 🛠️ Troubleshooting
 
